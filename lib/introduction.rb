@@ -10,3 +10,6 @@ end
 
 introduction_with_language("Chris", "Ruby")
 
+def introduction_with_language_optional(name, language)
+  
+end
